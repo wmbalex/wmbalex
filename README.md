@@ -55,15 +55,6 @@
 
 ---
 
-## 🧪 Test the Updater
-
-Once secrets are added, head to **Actions → Deploy n8n**:
-1. Select workflow
-2. Click `Run`
-3. Watch it deploy in seconds 🚀
-
----
-
 ## 🎯 What I’m Building Now
 
 - 🔐 Advanced TON smart wallet systems
@@ -75,7 +66,7 @@ Once secrets are added, head to **Actions → Deploy n8n**:
 
 ## 🌐 Connect With Me
 
-- 💬 Telegram: [@isellbig](https://t.me/isellbig)
+- 💬 Telegram: [Text me in Telegram](https://t.me/isellbig)
 - 📩 Email: alex@worldmediabuy.com
 
 ---
@@ -93,15 +84,6 @@ If something saved you time or helped your stack grow:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmbalex&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
-
----
-
-## 🎨 Custom Touches
-
-- 🧠 GPT-powered workflows behind the scenes
-- 🔁 GitHub Actions with Docker-based deploys
-- 📐 Minimal UI with max signal
-- 🕶️ Built dark mode-first for devs
 
 ---
 
